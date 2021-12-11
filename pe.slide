@@ -55,7 +55,13 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 
 .image present/img/SO_Project_Clase.png _ 980
 
+* Domain
 
+.code present/code/domain.go /^//START/,/^//END/
+
+.code present/code/domain.go /^//START_CONTROLER OMIT/,/^//END_CONTROLER OMIT/
+
+.code present/code/domain.go /^//START_MESSAGE OMIT/,/^//END_MESSAGE OMIT/
 
 * Diagrama de Secuencia
 
