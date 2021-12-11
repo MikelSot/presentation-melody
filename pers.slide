@@ -66,6 +66,14 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 * Data
 .code present/code/data.go /^//START/,/^//END/
 
+* Handler
+.code present/code/handler.go
+
+* Read
+.code present/code/read.go /^//START/,/^//END/
+
+* Write
+.code present/code/write.go /^//START/,/^//END/
 
 * Diagrama de Secuencia
 
