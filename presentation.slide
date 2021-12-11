@@ -56,37 +56,6 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 .image present/img/SO_Project_Clase_Mejorado.svg _ 890
 
 
-* Domain
-
-.code present/code/domain.go /^//START/,/^//END/
-
-.code present/code/domain.go /^//START_CONTROLER OMIT/,/^//END_CONTROLER OMIT/
-
-.code present/code/domain.go /^//START_MESSAGE OMIT/,/^//END_MESSAGE OMIT/
-
-* Data
-.code present/code/data.go /^//START/,/^//END/
-
-* Handler
-.code present/code/handler.go
-
-* Read
-.code present/code/read.go /^//START/,/^//END/
-
-* Write
-.code present/code/write.go /^//START/,/^//END/
-
-* Controller
-.code present/code/controller.go /^//START/,/^//END/
-.image present/img/work.jpg _ 400
-
-* Router
-.code present/code/router.go /^//START/,/^//END/
-.image present/img/gophermegaphones.jpg _ 550
-
-* Main
-.code present/code/main.go /^//START/,/^//END/
-.image present/img/build.jpg _ 190
 
 * Diagrama de Secuencia
 
