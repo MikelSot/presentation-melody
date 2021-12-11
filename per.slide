@@ -63,6 +63,10 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 
 .code present/code/domain.go /^//START_MESSAGE OMIT/,/^//END_MESSAGE OMIT/
 
+* Data
+.code present/code/data.go /^//START/,/^//END/
+
+
 * Diagrama de Secuencia
 
 .image present/img/SO_Project_Secuencia.png  _ 880
