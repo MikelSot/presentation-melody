@@ -75,6 +75,18 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 * Write
 .code present/code/write.go /^//START/,/^//END/
 
+* Controller
+.code present/code/controller.go /^//START/,/^//END/
+.image present/img/work.jpg _ 400
+
+* Router
+.code present/code/router.go /^//START/,/^//END/
+.image present/img/gophermegaphones.jpg _ 550
+
+* Main
+.code present/code/main.go /^//START/,/^//END/
+.image present/img/build.jpg _ 190
+
 * Diagrama de Secuencia
 
 .image present/img/SO_Project_Secuencia.png  _ 880
