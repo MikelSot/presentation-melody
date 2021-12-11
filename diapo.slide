@@ -14,6 +14,10 @@ recursos compartidos.
 
 El monitor hace cumplir la exclusión mutua implícitamente de modo que un solo proceso este siendo ejecutado a la vez.
 
+En este proyecto entendemos un monitor como un controlador, ya que este realizara la gestión y comunicación entre los hilos o gorutinas.
+
+Para la realización del proyecto se utilizó el lenguaje de programación GO de Google.
+
 * Threads o Gorutinas
 Paralelismo
 
