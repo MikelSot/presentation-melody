@@ -41,7 +41,7 @@ Es solamente una función o método que se ejecuta concurrentemente de forma ind
 .image present/img/father.png _ 400
 
 *
-.image present/img/SO_Project_Child.svg 500 500
+.image present/img/SO_Project_Child.png 500 500
 
 * CSP
 .play -edit present/code/csp.go /^//START/,/^//END/
@@ -53,10 +53,10 @@ _"No_se_comunique_compartiendo_la_memoria,_comparta_la_memoria_comunicándose"_
 
 * Diagrama de Clases
 
-.image present/img/SO_Project_Clase_Mejorado.svg _ 890
+.image present/img/SO_Project_Clase_Mejorado.png _ 890
 
 
 
 * Diagrama de Secuencia
 
-.image present/img/SO_Project_Secuencia_Mejorado.svg  _ 880
+.image present/img/SO_Project_Secuencia_Mejorado.png  _ 880
