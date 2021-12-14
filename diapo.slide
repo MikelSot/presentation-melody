@@ -25,7 +25,7 @@ Paralelismo
 
 Concurrencia
 
-    “Lidiar con muchas cosas a la vez”
+    “Lidiar con muchas cosas a la ve”
 
 Es solamente una función o método que se ejecuta concurrentemente de forma independiente en el mismo espacio de direcciones con otras gorutinas.
 
