@@ -12,6 +12,7 @@ var writeValue = make(chan int)
 
 func set(newValue int) {
 	writeValue <- newValue
+
 }
 
 func read() int {
